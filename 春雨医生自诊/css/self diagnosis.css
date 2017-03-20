@@ -327,3 +327,78 @@ html,body{
     height:1rem;
     background:#77D139;
 }
+.yes-no{
+	border-top: 1rem solid#E9E9E9;
+	padding:0rem 1.5rem 1rem;
+}
+.yes-no .head .title{
+	width: 100%;
+}
+.yes-no .head .title span{
+	display: block;
+	float: right;
+	height: 2rem ;
+	width: 4rem;
+	background:#39D167;
+	color: white;
+	font-size: 1.5rem;
+	text-align: center;
+	line-height: 2rem;
+}
+.first{
+	display: block;
+	float: left;
+	padding: 0.3rem 0.5rem;
+	background:#39D167;
+	color: white;
+	font-size: 1.5rem;
+	text-align: center;
+	line-height: 2rem;
+	margin-right: 1rem;
+}
+.second{
+	display: block;
+	float: left;
+	padding: 0.3rem 0.5rem;
+	margin-right: 1rem;
+	background:white;
+	color: black;
+	font-size: 1.5rem;
+	text-align: center;
+	line-height: 2rem;
+	border:1px solid#E9e9e9;
+}
+.head-top{
+	position: relative;
+	width: 100%;
+	padding-left:45%;
+}
+.head-top img{
+	position: absolute;
+	height: 2rem;
+	left: 0.5rem;
+	top: 0.2rem;
+}
+.head-top p{
+	width: 90;
+	float: left;
+	font-family: .PingFangSC-Medium;
+	font-size: 1.8rem;
+	color: #323232;
+	text-align: center;
+}
+.year{
+	position: relative;
+	border-top: 1px solid#E9E9E9;
+	padding: 0.5rem 1rem;
+
+}
+.year span{
+	float: left;
+	font-size: 1.5rem;
+}
+.year img{
+	float: right;
+	height: 2rem;
+
+}
