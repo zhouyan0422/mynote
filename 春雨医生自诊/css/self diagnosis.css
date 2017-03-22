@@ -354,13 +354,13 @@ html,body{
 	font-size: 1.5rem;
 	text-align: center;
 	line-height: 2rem;
-	margin-right: 1rem;
+	margin: 0rem 1rem 1rem 0rem;
 }
 .second{
 	display: block;
 	float: left;
 	padding: 0.3rem 0.5rem;
-	margin-right: 1rem;
+	margin: 0rem 1rem 1rem 0rem;
 	background:white;
 	color: black;
 	font-size: 1.5rem;
@@ -371,13 +371,13 @@ html,body{
 .head-top{
 	position: relative;
 	width: 100%;
-	padding-left:45%;
+	padding: 1rem 0 1rem 40%;
 }
 .head-top img{
 	position: absolute;
 	height: 2rem;
 	left: 0.5rem;
-	top: 0.2rem;
+	top: 1rem;
 }
 .head-top p{
 	width: 90;
@@ -390,7 +390,7 @@ html,body{
 .year{
 	position: relative;
 	border-top: 1px solid#E9E9E9;
-	padding: 0.5rem 1rem;
+	padding: 1rem 1rem;
 
 }
 .year span{
